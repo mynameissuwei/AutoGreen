@@ -9,4 +9,3 @@ git push -u origin master
 
 echo I'm Stronger...
 
-pause
